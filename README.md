@@ -15,10 +15,19 @@
 
 ## G
 ### Games
-#### Snake
+#### Game: BlackJack
+https://github.com/biagolini/WebPageBlackJack
+
+#### Game: Memory
+https://github.com/biagolini/WebPageMemory
+
+#### Game: Pong
+https://github.com/biagolini/WebPagePong
+
+#### Game: Snake
 https://github.com/biagolini/WebPageSnake
 
-#### Tic-Tac-Toe
+#### Game: Tic-Tac-Toe
 https://github.com/biagolini/WebPageTicTacToe
 
 ## H
