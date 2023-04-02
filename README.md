@@ -14,6 +14,12 @@
 ## F
 
 ## G
+### Games
+#### Snake
+https://github.com/biagolini/WebPageSnake
+
+#### Tic-Tac-Toe
+https://github.com/biagolini/WebPageTicTacToe
 
 ## H
 
@@ -40,8 +46,6 @@
 ## S
 
 ## T
-### Tic-Tac-Toe
-https://github.com/biagolini/WebPageTicTacToe
 
 ## U
 
