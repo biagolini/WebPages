@@ -55,6 +55,8 @@ https://github.com/biagolini/WebPageTicTacToe
 ## S
 
 ## T
+#### Time Sum Calculator
+https://github.com/biagolini/WebPageTimeSumCalculator
 
 ## U
 
