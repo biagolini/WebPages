@@ -33,6 +33,8 @@ https://github.com/biagolini/WebPageTicTacToe
 ## H
 
 ## I
+#### IVS: Video.js Quality Selector
+https://github.com/biagolini/WebPageIvsVideoQualitySelector
 
 ## J
 
