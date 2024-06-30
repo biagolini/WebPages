@@ -33,8 +33,24 @@ https://github.com/biagolini/WebPageTicTacToe
 ## H
 
 ## I
+
 #### IVS: Video.js Quality Selector
+
+Shows how to implement Video.js with AWS plugin for stream quality selection.
+
 https://github.com/biagolini/WebPageIvsVideoQualitySelector
+
+#### IVS: Video.js URL Auto Selector
+
+Demonstrates a project that automatically selects streaming URLs for presentation.
+
+https://github.com/biagolini/WebPageIvsUrlAutoSelector
+
+#### IVS: Video.js Manual Selector
+
+Allows users to input up to 4 URLs and switch the stream by clicking buttons next to the URL text boxes.
+
+https://github.com/biagolini/WebPageIvsUrlManualSelector
 
 ## J
 
