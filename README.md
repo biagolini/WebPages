@@ -32,6 +32,12 @@ https://github.com/biagolini/WebPageTicTacToe
 
 ## H
 
+####  HTTP Headers
+
+Simple HTML page that shows HTTP headers
+
+https://github.com/biagolini/WebPageShowHttpHeaders
+
 ## I
 
 #### IVS: Video.js Quality Selector
