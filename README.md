@@ -29,6 +29,11 @@ A collection of hands-on examples demonstrating various browser storage methods,
 
 ## F
 
+### Fast-Forward Time Calculator
+Tool that allows users to calculate the adjusted duration of a video when played at different playback speeds.
+
+[https://github.com/biagolini/WebPageFastForwardTimeCalculator](https://github.com/biagolini/WebPageFastForwardTimeCalculator)
+
 ## G
 
 ### Games
